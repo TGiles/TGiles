@@ -1,6 +1,6 @@
 # Tim Giles Jr (he/him)
 
-Hey There 👋 Welcome to my GitHub profile.
+Hey there 👋 Welcome to my GitHub profile.
 
 [Here's a list of all my committed work in Firefox](https://github.com/mozilla/gecko-dev/search?o=asc&q=author%3Atgiles&s=committer-date&type=commits)
 
