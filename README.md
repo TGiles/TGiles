@@ -3,6 +3,7 @@
 Hey there 👋 Welcome to my GitHub profile.
 
 [Here's a list of all my committed work in Firefox](https://github.com/mozilla/gecko-dev/search?o=desc&q=author%3Atgiles&s=committer-date&type=commits).
+
 [Here's a list of all the work I've reviewed that has landed in Firefox](https://github.com/mozilla/gecko-dev/search?p=1&q=%22tgiles%22&type=commits)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
